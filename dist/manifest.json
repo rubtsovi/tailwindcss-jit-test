@@ -1,0 +1,8 @@
+{
+  "app.js": "http://localhost:8080/app.js",
+  "styles.css": "http://localhost:8080/styles.css",
+  "styles.js": "http://localhost:8080/styles.js",
+  "runtime.js": "http://localhost:8080/runtime.js",
+  "vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_0_0_0_0_port_-2e4de4.js": "http://localhost:8080/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_0_0_0_0_port_-2e4de4.js",
+  "index.html": "http://localhost:8080/index.html"
+}
